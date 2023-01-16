@@ -1,0 +1,17 @@
+body
+{
+    color: darkblue;
+    background:linear-gradient(rgb(212, 255, 0)7%,yellow 15%, orange 35%, red 70%, crimson 92%);
+}
+.heading{
+    width: 80%;
+    font-size: 22px; ;
+}
+#camera{
+    border: 2px solid blue;
+    width: 375px;
+    height: 325px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+color:lightgray ;
+}
